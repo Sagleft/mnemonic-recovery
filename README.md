@@ -19,3 +19,9 @@ Works with BIP44, BIP49 and BIP84 HD derivations.
 Please consider donating if you find this tool useful.
 
 BTC: 3Ne7pfs8yNxgCnLH9GWVzbuefpXRjs3SP4
+
+---
+
+![image](https://github.com/Sagleft/Sagleft/raw/master/image.png)
+
+### :globe_with_meridians: [Telegram канал](https://t.me/+VIvd8j6xvm9iMzhi)
